@@ -26,10 +26,12 @@ def courseScanner(innerUrl, name, amt):
     for item in items:
         itemsStrings.append(item.get_attribute('href') + splitter + item.text)
 
+    coursePercent = 1 / amt
+
     if len(itemsStrings) == 0:
+        updateProgressBar(coursePercent)
         return
 
-    coursePercent = 1 / amt
     linkPercent = coursePercent * (1 / len(itemsStrings))
     for string in itemsStrings:
         string = str(string)
