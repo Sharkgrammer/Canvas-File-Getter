@@ -1,20 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="feb11e1f-3679-45ee-9f87-ef23fecf3ee6" name="Default Changelist" comment="">
+    <list default="true" id="feb11e1f-3679-45ee-9f87-ef23fecf3ee6" name="Default Changelist" comment="Updates">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/main/Analysis-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/main/Analysis-00.toc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/main/COLLECT-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/main/COLLECT-00.toc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/main/EXE-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/main/EXE-00.toc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/main/PKG-00.pkg" beforeDir="false" afterPath="$PROJECT_DIR$/build/main/PKG-00.pkg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/main/PYZ-00.pyz" beforeDir="false" afterPath="$PROJECT_DIR$/build/main/PYZ-00.pyz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/main/PYZ-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/main/PYZ-00.toc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/main/base_library.zip" beforeDir="false" afterPath="$PROJECT_DIR$/build/main/base_library.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/main/main.exe" beforeDir="false" afterPath="$PROJECT_DIR$/build/main/main.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/main/base_library.zip" beforeDir="false" afterPath="$PROJECT_DIR$/dist/main/base_library.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/main/main.exe" beforeDir="false" afterPath="$PROJECT_DIR$/dist/main/main.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/geckodriver.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CanvasFileGetter.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CanvasFileGetter/Analysis-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/CanvasFileGetter/Analysis-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CanvasFileGetter/COLLECT-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/CanvasFileGetter/COLLECT-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CanvasFileGetter/CanvasFileGetter.exe" beforeDir="false" afterPath="$PROJECT_DIR$/build/CanvasFileGetter/CanvasFileGetter.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CanvasFileGetter/EXE-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/CanvasFileGetter/EXE-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CanvasFileGetter/PKG-00.pkg" beforeDir="false" afterPath="$PROJECT_DIR$/build/CanvasFileGetter/PKG-00.pkg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CanvasFileGetter/PYZ-00.pyz" beforeDir="false" afterPath="$PROJECT_DIR$/build/CanvasFileGetter/PYZ-00.pyz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CanvasFileGetter/PYZ-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/CanvasFileGetter/PYZ-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CanvasFileGetter/base_library.zip" beforeDir="false" afterPath="$PROJECT_DIR$/build/CanvasFileGetter/base_library.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/CanvasFileGetter/CanvasFileGetter.exe" beforeDir="false" afterPath="$PROJECT_DIR$/dist/CanvasFileGetter/CanvasFileGetter.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/CanvasFileGetter/base_library.zip" beforeDir="false" afterPath="$PROJECT_DIR$/dist/CanvasFileGetter/base_library.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/CanvasFileGetter.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,6 +41,7 @@
   <component name="ProjectId" id="1UWwgE5eVBb1a0vZBSZsMwpbzlq" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/main.py" />
@@ -58,7 +60,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+    <configuration name="CanvasFileGetter" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="canvas" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -70,7 +72,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\gills\PycharmProjects\canvas\CanvasFileGetter.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -98,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575492452205</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Update with build">
+      <created>1575558919960</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1575558919960</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -116,6 +125,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First" />
-    <option name="LAST_COMMIT_MESSAGE" value="First" />
+    <MESSAGE value="Update with build" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update with build" />
   </component>
 </project>
